@@ -1,1 +1,3 @@
 This is my first advanced programming class activity
+
+second line description of our first session
