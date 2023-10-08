@@ -1,3 +1,9 @@
 This is my first advanced programming class activity
 
 second line description of our first session
+
+//configure vscode for c++ from the following link
+https://code.visualstudio.com/docs/languages/cpp
+//After that you figure out that you have not g++ 
+https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites
+
