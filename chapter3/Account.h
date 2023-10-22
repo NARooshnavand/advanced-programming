@@ -2,6 +2,9 @@
 
 class Account{
     public:
+        explicit Account(std::string accountName):name{accountName}
+        {
+        }
         std::string getName() const{
             return name;
         }
