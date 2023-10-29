@@ -9,6 +9,8 @@ int main()
     alpha = a;
     for(int cnt=0;cnt<5;cnt++)
     {
+        atest = alpha*alpha;
+        cout << "\n approximation of sqrt : " << a << " in iteration " << cnt << " is " << atest;
         alpha = alpha/2 + a/(2*alpha);
     }
     cout << "The sqrt of : " << a << " is : " << alpha;
