@@ -12,6 +12,7 @@ class Math{
                 if(n % cnt == 0)
                 {
                     res = false;
+                    break;
                 }
                 cnt++;
             }
